@@ -52,3 +52,29 @@ Do not run this project on:
 - Shared systems
 - Third-party machines
 - University systems without permission
+
+## Requirements
+
+Install the required Python libraries:
+
+```bash
+pip install cryptography watchdog psutil
+
+
+## Demo Video
+
+Project demonstration video:
+
+https://www.youtube.com/watch?v=QS8djvWeF6s
+
+## Disclaimer
+
+This project is for academic and educational purposes only. The authors do not support, encourage, or permit the use of this project for malicious activity.
+
+Only run this project in an isolated lab environment using test files.
+
+## Author
+
+Sowgoto Raha Sunny  
+M.S. in Cybersecurity  
+University of North Texas
