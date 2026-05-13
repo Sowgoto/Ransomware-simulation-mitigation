@@ -59,20 +59,22 @@ Install the required Python libraries:
 
 ```bash
 pip install cryptography watchdog psutil
-Demo Video
+```
+
+## Demo Video
 
 Project demonstration video:
 
 https://www.youtube.com/watch?v=QS8djvWeF6s
 
-Disclaimer
+## Disclaimer
 
 This project is for academic and educational purposes only. The authors do not support, encourage, or permit the use of this project for malicious activity.
 
 Only run this project in an isolated lab environment using test files.
 
-Author
+## Author
 
-Sowgoto Raha Sunny
-M.S. in Cybersecurity
+Sowgoto Raha Sunny  
+M.S. in Cybersecurity  
 University of North Texas
